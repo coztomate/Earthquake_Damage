@@ -7,8 +7,7 @@ An insightful endeavour aimed at predicting building damage from the notorious G
 ![Image](./Images/result.png)
 
 
-Acknowledgements
-Acknowledgements for collaboration, contributor references, etc.
+## Contributors
 
 @https://github.com/coztomate
 @https://github.com/windwithbirds
