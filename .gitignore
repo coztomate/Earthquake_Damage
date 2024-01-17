@@ -2,3 +2,4 @@ models/
 src/__pycache__/
 notebooks/__pycache__/
 Submissions/*.csv
+.DS_Store
