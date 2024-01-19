@@ -27,7 +27,11 @@ You can also find the Optuna notebook in the notebooks folder. This notebook is 
 
 ## Results
 
-![Image](./Images/result.png)
+First submission:
+![Image](./Images/result_cutout.png)
+
+Last submission (status Jan 24):
+![Image](./Images/last.png)
 
 
 ## Contributors
